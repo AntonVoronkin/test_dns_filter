@@ -1,10 +1,10 @@
 !
-! Title: Test filter kek2
+! Title: Test filter kek3
 ! Homepage: https://github.com/AntonVoronkin/test_dns_filter/blob/main/DNS_test.txt
-! Version: 2.2.2
+! Version: 2.2.3
 ! License: free
-! Last modified: 2025-05-008 01:15:12
-! TimeUpdated: 2025-05-08T07:33:19+00:00
+! Last modified: 2025-05-09 01:15:12
+! TimeUpdated: 2025-05-09T07:33:19+00:00
 ! Description: Test filter 1(2)
 
 ||example.org^
@@ -34,3 +34,5 @@ TEST1
 TEST2
 ||food.com^
 0.0.0.0 forbes.com
+TEST4
+TEST23
