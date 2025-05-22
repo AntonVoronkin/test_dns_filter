@@ -1,18 +1,13 @@
 !
 ! Title: Test filter kek3
 ! Homepage: https://github.com/AntonVoronkin/test_dns_filter/blob/main/DNS_test.txt
-! Version: 2.2.10
+! Version: 2.2.11
 ! License: free
-! Last modified: 2025-05-16 01:15:12
-! TimeUpdated: 2025-05-16T07:33:19+00:00
+! Last modified: 2025-05-17 01:15:12
+! TimeUpdated: 2025-05-17T07:33:19+00:00
 ! Description: Test filter 1(2)
 
 ||example.org^
 ||avito.ru^
 0.0.0.0 mail.ru
-TEST1
-TEST2
-TEST4
-TEST5
-TEST6
 TEST777777
